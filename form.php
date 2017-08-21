@@ -127,7 +127,6 @@ $(document).ready(function(){
 
 
 </form>
-/* this is just for exanole */
 
 
 </body>
